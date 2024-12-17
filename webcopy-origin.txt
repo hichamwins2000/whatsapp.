@@ -1,0 +1,42 @@
+Uri: https://chat-log-link-wtsp.vercel.app/loading.html
+File Name: C:\Users\00\Desktop\chat-log-link-wtsp.vercel.app\loading.html
+Content Type: text/html
+
+Uri: https://chat-log-link-wtsp.vercel.app/output-onlinegiftools.gif
+File Name: C:\Users\00\Desktop\chat-log-link-wtsp.vercel.app\output-onlinegiftools.gif
+Content Type: image/gif
+
+://chat-log-link-wtsp.vercel.app/DSxOAUB0raA.png
+File Name: C:\Users\00\Desktop\chat-log-link-wtsp.vercel.app\DSxOAUB0raA-1.png
+Content Type: image/png
+
+Uri: https://chat-log-link-wtsp.vercel.app/styles.css
+File Name: C:\Users\00\Desktop\chat-log-link-wtsp.vercel.app\styles-1.css
+Content Type: text/css
+
+nt Type: image/png
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/intlTelInput.min.js
+File Name: C:\Downloaded Web Sites\chat-log-link-wtsp.vercel.app\ajax\libs\intl-tel-input\17.0.8\js\intlTelInput.min.js
+Content Type: application/javascript
+
+Uri: https://chat-log-link-wtsp.vercel.app/
+File Name: C:\Downloaded Web Sites\chat-log-link-wtsp.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://chat-log-link-wtsp.vercel.app/172245867233593622.png
+File Name: C:\Downloaded Web Sites\chat-log-link-wtsp.vercel.app\172245867233593622.png
+Content Type: image/png
+
+Uri: https://chat-log-link-wtsp.vercel.app/DSxOAUB0raA.png
+File Name: C:\Downloaded Web Sites\chat-log-link-wtsp.vercel.app\DSxOAUB0raA.png
+Content Type: image/png
+
+Uri: https://chat-log-link-wtsp.vercel.app/Smoflo.png.png
+File Name: C:\Downloaded Web Sites\chat-log-link-wtsp.vercel.app\Smoflo.png.png
+Content Type: image/png
+
+Uri: https://chat-log-link-wtsp.vercel.app/styles.css
+File Name: C:\Downloaded Web Sites\chat-log-link-wtsp.vercel.app\styles.css
+Content Type: text/css
+
